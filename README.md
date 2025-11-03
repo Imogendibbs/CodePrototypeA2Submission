@@ -22,7 +22,8 @@ Randomized placement of words on the canvas
 Variable fonts and colours for a visually dynamic mural
 
 Screenshots:
-<img width="1476" height="2940" alt="image" src="https://github.com/user-attachments/assets/e83517f4-09bb-485d-9c1a-f68232d93aa4" />
+
+![Uploading Screenshot 2025-10-30 at 11.40.47 am.png…]()
 
 
 Setup:
